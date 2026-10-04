@@ -1,0 +1,30 @@
+# Python & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environments & IDE
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+
+# Datasets
+Testing/
+Training/
+
+# Large Model Files & Weights
+*.pt
+*.pth
+*.h5
+*.keras
+*.onnx
+*.bin
+*.pkl
+*.safetensors
+
+# Logs & temp files
+*.log
+scratch/
